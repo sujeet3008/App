@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "first",
-    "slug": "first",
+    "name": "Sujeet",
+    "slug": "Sujeet",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "first",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
